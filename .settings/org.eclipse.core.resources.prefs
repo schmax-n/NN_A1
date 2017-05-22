@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/Run.py=utf-8
+encoding//src/data/data_set.py=utf-8
+encoding//src/data/mnist_seven.py=utf-8
+encoding//src/model/classifier.py=utf-8
+encoding//src/model/perceptron.py=utf-8
+encoding//src/model/stupid_recognizer.py=utf-8
+encoding//src/report/evaluator.py=utf-8
+encoding//src/util/activation_functions.py=utf-8
